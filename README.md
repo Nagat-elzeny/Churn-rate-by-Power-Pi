@@ -41,13 +41,13 @@ The dashboard highlights:
 3. **Age Groups**
    - Number of customers vs churn rate by age bins
   
-   - 
+   - ![image alt](https://github.com/Nagat-elzeny/Churn-rate-by-Power-Pi/blob/main/Age%20Groups.PNG?raw=true)
 
 4. **Contract Type**
    - Churn rate trends vs account length
    - Contract category comparison
   
-   - 
+   - ![image lat](https://github.com/Nagat-elzeny/Churn-rate-by-Power-Pi/blob/main/cONTRACt%20type.PNG?raw=true)
 5. **Payment and Contract**
    - Churn relation with payment method and contract type
 
@@ -55,16 +55,32 @@ The dashboard highlights:
    - Churn rate by:
      - Unlimited data plan (Yes/No)
      - Grouped consumption (Less than 5 GB, 5–10 GB, 10+ GB)
+    
+     - ![image alt](https://github.com/Nagat-elzeny/Churn-rate-by-Power-Pi/blob/main/Extra%20Charges.PNG?raw=true)
+
 
 7. **International Calls**
    - Churn by state with a geographic scatter/map
+  
+   - ![image alt](https://github.com/Nagat-elzeny/Churn-rate-by-Power-Pi/blob/main/InternationL%20cALLS.PNG?raw=true)
 
 8. **Groups and Categories**
    - Churn by category + customer distribution visuals
   
-   -    - ![image alt](https://github.com/Nagat-elzeny/Churn-rate-by-Power-Pi/blob/main/Groups%20and%20category.PNG?raw=true)
+     - ![image alt](https://github.com/Nagat-elzeny/Churn-rate-by-Power-Pi/blob/main/Groups%20and%20category.PNG?raw=true)
+9.**Payment and Contract**
+- Churn rate by:
+- payment method
+- contract type
 
+- ![image alt](https://github.com/Nagat-elzeny/Churn-rate-by-Power-Pi/blob/main/Payment%20and%20Contract.PNG?raw=true)
 
+10. **unlimited plan**
+- Churn rate by:
+- who have unlimited plan (yes/No)
+- Grouped consumption and unlimited plan (Less than 5 GB, 5–10 GB, 10+ GB)
+
+- ![image alt](https://github.com/Nagat-elzeny/Churn-rate-by-Power-Pi/blob/main/Unlimited%20plan.PNG?raw=true)
 ---
 
 ## 🗂️ Dataset
