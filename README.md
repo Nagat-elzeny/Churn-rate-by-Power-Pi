@@ -36,14 +36,18 @@ The dashboard highlights:
 2. **Churn Demographics**
    - Senior vs Under 30 churn comparison
    - Overall churn KPIs
-
+  
+   - ![image alt](https://github.com/Nagat-elzeny/Churn-rate-by-Power-Pi/blob/main/Demo.PNG?raw=true)
 3. **Age Groups**
    - Number of customers vs churn rate by age bins
+  
+   - 
 
 4. **Contract Type**
    - Churn rate trends vs account length
    - Contract category comparison
-
+  
+   - 
 5. **Payment and Contract**
    - Churn relation with payment method and contract type
 
@@ -57,6 +61,9 @@ The dashboard highlights:
 
 8. **Groups and Categories**
    - Churn by category + customer distribution visuals
+  
+   -    - ![image alt](https://github.com/Nagat-elzeny/Churn-rate-by-Power-Pi/blob/main/Groups%20and%20category.PNG?raw=true)
+
 
 ---
 
