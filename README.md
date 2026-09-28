@@ -81,6 +81,15 @@ The dashboard highlights:
 - Grouped consumption and unlimited plan (Less than 5 GB, 5–10 GB, 10+ GB)
 
 - ![image alt](https://github.com/Nagat-elzeny/Churn-rate-by-Power-Pi/blob/main/Unlimited%20plan.PNG?raw=true)
+
+11.**insight**
+- customer service calls and avg Customers service callls
+- avg extra data charges
+- avg extra international
+- Churn rate by state
+- avg customer service calls by churn label and state
+
+- ![image alt](https://github.com/Nagat-elzeny/Churn-rate-by-Power-Pi/blob/main/insight.PNG?raw=true)
 ---
 
 ## 🗂️ Dataset
