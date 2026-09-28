@@ -30,6 +30,8 @@ The dashboard highlights:
 1. **Overview Churn Rate**
    - KPI summary cards (Churn rate, customer count, churned count)
    - Churn reasons bar chart
+  
+   - ![image alt](https://github.com/Nagat-elzeny/Churn-rate-by-Power-Pi/blob/main/Overveiw.PNG?raw=true)
 
 2. **Churn Demographics**
    - Senior vs Under 30 churn comparison
